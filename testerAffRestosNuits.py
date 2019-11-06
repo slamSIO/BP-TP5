@@ -15,4 +15,4 @@ if __name__ == "__main__" :
 			72 , 90 , 0 , 25 , 175 , 9 , 28 , 33 , 90 , 83
 		]
 	
-	affRestosOuverts( ouvertsParisNuit )
+	affRestosNuits( ouvertsParisNuit )
